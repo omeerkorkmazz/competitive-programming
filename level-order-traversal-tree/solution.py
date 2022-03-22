@@ -1,3 +1,5 @@
+#assume root has data and lef and right childs as root node
+
 def levelOrder(root):
     nums = []
     visited_nodes = []
