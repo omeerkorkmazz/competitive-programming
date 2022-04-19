@@ -16,3 +16,5 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Sorted Array to Binary Search Tree (BST)](sorted-array-to-bst)
 - [Subarray Divisible by k](subarray-divisible-by-k)
 - [Subarray with Given Sum](subarray-with-given-sum)
+- [Merge Two Sorted Linked List](merge-two-sorted-linked-list)
+- [Reverse Linked List](reverse-linked-list)
