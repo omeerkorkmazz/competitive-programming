@@ -23,3 +23,4 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Reverse Words in Given String](reverse-words-given-string)
 - [First and Last Occurences of X](first-last-occurences-of-x)
 - [Detect Loop in Linked List](detect-loop-linked-list)
+- [Check String Rotation of Each Other](string-rotation-of-each-other)
