@@ -18,3 +18,4 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Subarray with Given Sum](subarray-with-given-sum)
 - [Merge Two Sorted Linked List](merge-two-sorted-linked-list)
 - [Reverse Linked List](reverse-linked-list)
+- [Check for BST](check-for-bst)
