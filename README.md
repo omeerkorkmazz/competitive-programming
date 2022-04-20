@@ -21,3 +21,4 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Check for BST](check-for-bst)
 - [Word Segmentation Separated Words](word-segmentation-separated-words)
 - [Reverse Words In Given String](reverse-words-given-string)
+- [First and Last Occurences of X](first-last-occurences-of-x)
