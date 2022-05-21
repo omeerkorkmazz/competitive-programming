@@ -1,6 +1,6 @@
 # Cracking The Coding Interview Questions
 
-This repository includes diverse challenging interview questions of FAANG companies (e.g., Facebook, Amazon, Google, etc) at any level. You can find the problems and their solutions with the implementation of different programming languages (e.g., Go, Python, etc). The focus is basically to show the data structures and algorithmic approaches for given problems and improve competitive programming skills.
+This repository includes diverse challenging interview questions of FAANG companies (e.g., Facebook, Amazon, Google, etc) at any level. You can find the problems and their solutions with the implementation of different programming languages (e.g., Go, Python, etc). The focus is basically to show the data structures and algorithmic approaches for given problems and improve competitive programming skills. The questions can easily be searched in Hackerrank, GeeksForGeeks or Leetcode.
 
 ## Problems
 
@@ -10,6 +10,7 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Kth Smallest Element](kth-smallest-element)
 - [Level Order Traversal Tree](level-order-traversal-tree)
 - [Reverse Level Order Traversal Tree](reverse-level-order-traversal-tree)
+- [Inorder traversal tree](inorder-traversal-tree)
 - [Missing Number in Array](missing-number-in-array)
 - [Smaller on Left](smaller-on-left)
 - [SMS Splitting](sms-splitting)
