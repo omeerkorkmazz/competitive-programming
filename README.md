@@ -28,3 +28,4 @@ This repository includes diverse challenging interview questions of FAANG compan
 - [Implement Queue with Linked List](implement-queue-with-linked-list)
 - [Find Anagram](find-anagram)
 - [Find Anagram Together](find-anagram-together)
+- [Max Sum Subarray (Consecutive) of Size K](max-sum-sub-array-of-size-k)
